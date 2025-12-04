@@ -66,4 +66,3 @@ Passionate about clean code, creative learning, and building smart, practical so
 
 ---
 
-<h1 align="center">💙 Keep Creating 💙</h1>
